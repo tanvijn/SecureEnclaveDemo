@@ -1,7 +1,7 @@
 # SecureEnclaveDemo
 ## How to implement Secure Enclave in iOS App
 
-SecureEnclaveDemo is an xcodeproject containing helper named as "SecEnclaveWrapper". You can use this wrapper in your project to encrypt/decryopt sensitive data using Secure Enclave.
+SecureEnclaveDemo is an xcodeproject containing helper named as "SecEnclaveWrapper". You can use this wrapper in your project to encrypt/decrypt sensitive data using Secure Enclave.
 The SecEnclaveWrapper class is using SecureEnclave to generate keys and use them to encrypt/decrypt sensitive data.
 The SecureEnclave support is only available for iOS 10+.
 
